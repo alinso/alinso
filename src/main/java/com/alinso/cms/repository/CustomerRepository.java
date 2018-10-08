@@ -1,11 +1,11 @@
 package com.alinso.cms.repository;
 
-import com.alinso.cms.entity.Customer;
+import com.alinso.cms.entity.User;
 import org.springframework.stereotype.Repository;
 
 @Repository
 public class CustomerRepository extends BaseRepository {
     CustomerRepository(){
-        setTheClass(Customer.class);
+        setTheClass(User.class);
     }
 }

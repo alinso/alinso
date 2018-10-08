@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 
 
 @Entity
-public class Customer extends BaseEntity {
+public class User extends BaseEntity {
 
     public enum Gender {
         MALE,
