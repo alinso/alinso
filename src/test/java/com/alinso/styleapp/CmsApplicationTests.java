@@ -1,4 +1,4 @@
-package com.alinso.cms;
+package com.alinso.styleapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

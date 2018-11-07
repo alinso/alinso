@@ -1,6 +1,5 @@
-package com.alinso.cms.repository;
+package com.alinso.styleapp.repository;
 import org.hibernate.Session;
-import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.persistence.EntityManager;

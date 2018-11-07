@@ -1,4 +1,4 @@
-package com.alinso.cms;
+package com.alinso.styleapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.alinso.cms;
+package com.alinso.styleapp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

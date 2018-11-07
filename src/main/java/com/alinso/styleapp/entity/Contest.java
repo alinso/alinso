@@ -1,4 +1,4 @@
-package com.alinso.cms.entity;
+package com.alinso.styleapp.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

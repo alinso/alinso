@@ -1,6 +1,6 @@
-package com.alinso.cms.repository;
+package com.alinso.styleapp.repository;
 
-import com.alinso.cms.entity.Contest;
+import com.alinso.styleapp.entity.Contest;
 import org.springframework.stereotype.Repository;
 
 @Repository

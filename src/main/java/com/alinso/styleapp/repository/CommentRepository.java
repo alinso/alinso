@@ -1,6 +1,6 @@
-package com.alinso.cms.repository;
+package com.alinso.styleapp.repository;
 
-import com.alinso.cms.entity.Comment;
+import com.alinso.styleapp.entity.Comment;
 import org.springframework.stereotype.Repository;
 
 @Repository

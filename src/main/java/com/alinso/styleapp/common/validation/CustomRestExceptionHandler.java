@@ -1,4 +1,4 @@
-package com.alinso.cms.common.validation;
+package com.alinso.styleapp.common.validation;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

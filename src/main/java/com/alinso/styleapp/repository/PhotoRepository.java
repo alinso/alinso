@@ -1,6 +1,6 @@
-package com.alinso.cms.repository;
+package com.alinso.styleapp.repository;
 
-import com.alinso.cms.entity.Photo;
+import com.alinso.styleapp.entity.Photo;
 import org.springframework.stereotype.Repository;
 
 @Repository

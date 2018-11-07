@@ -1,7 +1,7 @@
-package com.alinso.cms.controller;
+package com.alinso.styleapp.controller;
 
-import com.alinso.cms.entity.User;
-import com.alinso.cms.repository.CustomerRepository;
+import com.alinso.styleapp.entity.User;
+import com.alinso.styleapp.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
